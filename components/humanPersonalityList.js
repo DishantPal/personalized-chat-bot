@@ -321,7 +321,6 @@ module.exports = [
   "Sensual",
   "Skeptical",
   "Smooth",
-  "Soft",
   "Solemn",
   "Solitary",
   "Stern",
